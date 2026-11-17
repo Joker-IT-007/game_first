@@ -1,0 +1,6 @@
+{
+  "name": "EL CLASICO: REAL MADRID VS FC BARCELONA",
+  "description": "3D El Clasico football match simulator featuring Real Madrid and FC Barcelona in a full stadium with physics, AI teammates/opponents, and live broadcast HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
